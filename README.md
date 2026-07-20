@@ -27,6 +27,7 @@
 | [0020-valid-parentheses](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
