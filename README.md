@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0029-divide-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
