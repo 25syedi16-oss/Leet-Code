@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1603-design-parking-system) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
