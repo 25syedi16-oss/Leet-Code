@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0225-implement-stack-using-queues) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
