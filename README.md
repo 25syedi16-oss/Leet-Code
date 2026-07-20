@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0020-valid-parentheses) |
+| [0065-valid-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0065-valid-number) |
 ## Stack
 |  |
 | ------- |
