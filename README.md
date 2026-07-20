@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0029-divide-two-integers) |
+## Concurrency
+|  |
+| ------- |
+| [1115-print-foobar-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
