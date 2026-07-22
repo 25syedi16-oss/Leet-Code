@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 ## Math
@@ -34,6 +35,7 @@
 | [0058-length-of-last-word](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/25syedi16-oss/Leet-Code/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
