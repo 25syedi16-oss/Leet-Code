@@ -1,9 +1,16 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        // Trim trailing/leading spaces and split by one or more spaces
-        String[] words = s.trim().split("\\s+");
-        
-        // Return the length of the last word in the array
-        return words[words.length - 1].length();
+        int length = 0;
+        int i = s.length() - 1;
+
+        while (i >= 0 && s.charAt(i) == ' ')
+            i--;
+
+        while (i >= 0 && s.charAt(i) != ' ') {
+            length++;
+            i--;
+        }
+
+        return length;
     }
 }
