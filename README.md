@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/25syedi16-oss/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0065-valid-number) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/25syedi16-oss/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0509-fibonacci-number) |
 ## Hash Function
 |  |
@@ -111,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/25syedi16-oss/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
