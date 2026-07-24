@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
+| [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 ## Math
@@ -40,6 +42,7 @@
 | [0125-valid-palindrome](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/25syedi16-oss/Leet-Code/tree/master/0344-reverse-string) |
+| [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [1108-defanging-an-ip-address](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/25syedi16-oss/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
