@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
+| [1002-find-common-characters](https://github.com/25syedi16-oss/Leet-Code/tree/master/1002-find-common-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1470-shuffle-the-array) |
@@ -19,6 +20,7 @@
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
+| [1002-find-common-characters](https://github.com/25syedi16-oss/Leet-Code/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 ## Math
@@ -44,6 +46,7 @@
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/25syedi16-oss/Leet-Code/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
+| [1002-find-common-characters](https://github.com/25syedi16-oss/Leet-Code/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1108-defanging-an-ip-address) |
 | [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
