@@ -20,6 +20,7 @@
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/25syedi16-oss/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/25syedi16-oss/Leet-Code/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
@@ -46,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/25syedi16-oss/Leet-Code/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/25syedi16-oss/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/25syedi16-oss/Leet-Code/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1108-defanging-an-ip-address) |
 | [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
