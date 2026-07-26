@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/25syedi16-oss/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/25syedi16-oss/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/25syedi16-oss/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0065-valid-number) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/25syedi16-oss/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
