@@ -24,6 +24,7 @@
 | [1002-find-common-characters](https://github.com/25syedi16-oss/Leet-Code/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/25syedi16-oss/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/25syedi16-oss/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/25syedi16-oss/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/25syedi16-oss/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
