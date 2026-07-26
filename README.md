@@ -19,6 +19,7 @@
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 ## Math
 |  |
@@ -44,6 +45,7 @@
 | [0344-reverse-string](https://github.com/25syedi16-oss/Leet-Code/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/25syedi16-oss/Leet-Code/tree/master/0500-keyboard-row) |
 | [1108-defanging-an-ip-address](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1108-defanging-an-ip-address) |
+| [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/25syedi16-oss/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/25syedi16-oss/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -73,6 +75,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1603-design-parking-system) |
 ## Queue
