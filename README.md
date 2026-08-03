@@ -41,6 +41,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/25syedi16-oss/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/25syedi16-oss/Leet-Code/tree/master/3370-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0029-divide-two-integers) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/25syedi16-oss/Leet-Code/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Concurrency
 |  |
 | ------- |
