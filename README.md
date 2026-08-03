@@ -14,6 +14,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1470-shuffle-the-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/25syedi16-oss/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/25syedi16-oss/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [1396-design-underground-system](https://github.com/25syedi16-oss/Leet-Code/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/25syedi16-oss/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/25syedi16-oss/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0002-add-two-numbers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/25syedi16-oss/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/25syedi16-oss/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Function
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/25syedi16-oss/Leet-Code/tree/master/0242-valid-anagram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/25syedi16-oss/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +169,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/25syedi16-oss/Leet-Code/tree/master/0463-island-perimeter) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/25syedi16-oss/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
