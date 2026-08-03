@@ -13,6 +13,7 @@
 | [1002-find-common-characters](https://github.com/25syedi16-oss/Leet-Code/tree/master/1002-find-common-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/25syedi16-oss/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1470-shuffle-the-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/25syedi16-oss/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/25syedi16-oss/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -40,6 +41,7 @@
 | [0509-fibonacci-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/25syedi16-oss/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/25syedi16-oss/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/25syedi16-oss/Leet-Code/tree/master/3370-smallest-number-with-all-set-bits) |
 ## String
@@ -141,6 +143,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/25syedi16-oss/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0509-fibonacci-number) |
+| [1406-stone-game-iii](https://github.com/25syedi16-oss/Leet-Code/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/25syedi16-oss/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/25syedi16-oss/Leet-Code/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
